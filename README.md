@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Iroegbu Anthony, a software engineer with over 3 years of work experience developing APIs and Microservices using NodeJS, Golang, PHP and Laravel. I have a solid understanding of design patterns, data structures & algorithms. I enjoy problem solving 😌, late night coding and gaming 😊
+I am Iroegbu Anthony, a software engineer with over four(4) years of work experience developing APIs and microservices using NodeJS, Golang, PHP(Laravel). I have a solid understanding of design patterns, data structures & algorithms. I enjoy problem solving 😌, late night coding and gaming 😊
 
 
 - 😄   Pronouns : He/him
