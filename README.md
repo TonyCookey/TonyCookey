@@ -5,7 +5,7 @@ I am Iroegbu Anthony, a software engineer with over four(4) years of work experi
 
 - 😄   Pronouns : He/him
 - ⚡    Nickname : Tony Cookey 🤯 
-- 🙌   Role : Backend Engineer | Software Engineer
+- 🙌   Roles : Software Engineer (Backend | Blockchain)
 
 ![Tony Cookey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonyCookey&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
 
