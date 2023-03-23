@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am Iroegbu Anthony, a software engineer with over five (5) years of work experience developing APIs and Microservices using NodeJS,ExpressJS,Golang,PHP, Python and Laravel. 
+### I am Iroegbu Anthony 
+
+A software engineer with over five (5) years of work experience developing APIs and Microservices using NodeJS, ExpressJS, Golang, PHP, Python and Laravel. 
 
 I have a solid understanding of design patterns, data structures & algorithms. 
 
