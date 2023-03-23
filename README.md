@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Iroegbu Anthony, a software engineer with over five (5) years of work experience developing APIs and Microservices using NodeJS,ExpressJS,Golang, PHP, Python and Laravel. 
+I am Iroegbu Anthony, a software engineer with over five (5) years of work experience developing APIs and Microservices using NodeJS,ExpressJS,Golang,PHP, Python and Laravel. 
 
 I have a solid understanding of design patterns, data structures & algorithms. 
 
@@ -8,8 +8,6 @@ I have a solid understanding of design patterns, data structures & algorithms.
 I enjoy problem solving, coding and gaming 😊
 
 
-
-- ⭐️   Pronouns : He/him
 - ✨   Nickname : Tony Cookey 🤯 
 - 💻   Roles : Software Engineer (Backend)
 
