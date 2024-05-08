@@ -1,18 +1,13 @@
 ## Hi there 👋
 
-### I am Iroegbu Anthony 
+### I am Tony Cookey
 
-A software engineer with over five (5) years of work experience developing APIs and Microservices using NodeJS, ExpressJS, Golang, PHP, Python and Laravel. 
+A software engineer with over six (6) years of work experience developing APIs and Microservices using NodeJS, ExpressJS, Golang, Python and Amazon Web Services (AWS)
 
 I have a solid understanding of design patterns, data structures & algorithms. 
 
 
 I enjoy problem solving, coding and gaming 😊
-
-
-- ✨   Nickname : Tony Cookey 🤯 
-- 💻   Roles : Software Engineer (Backend)
-
 
 ![Tony Cookey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonyCookey&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
 
